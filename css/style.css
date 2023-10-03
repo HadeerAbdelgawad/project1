@@ -639,6 +639,18 @@ body{
     margin-left: 200px;
     width: 300px;
 }
+.join-form button{
+    margin-left: 300px;
+    width: 120px;
+    height: 40px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    border: none;
+    border-radius: 5px;
+}
+.join-form button:hover{
+    background-color: #838282;
+}
 /* ////////////////////////////////////////////////////////////////////// */
 .say{
     width: 100%;
