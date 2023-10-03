@@ -640,17 +640,17 @@ body{
     width: 300px;
 }
 .join-form button{
-    margin-left: 290px;
-    width: 130px;
-    height: 35px;
-    font-size: 30px;
+    margin-left:  285px;
+    width: 140px;
+    height: 28px;
+    font-size: 28px;
     font-family: 'Times New Roman', Times, serif;
     border: none;
     border-radius: 5px;
     background-color: rgb(171, 151, 124);
 }
 .join-form button:hover{
-    background-color: #d6cdc3;
+    background-color: #f9ecd8;
 }
 /* ////////////////////////////////////////////////////////////////////// */
 .say{
