@@ -677,16 +677,15 @@ body{
 .say{
     width: 100%;
     height: 800px;
-    background-image: url(../images/Brown Neutral Vintage Feather Sketch Fashion Logo.png);
     position: relative;
 }
-.say-overley1{
+/* .say-overley1{
     position: absolute;
     top: 0;
     width: 100%;
     height: 100%;
     background-color: rgba(255, 255, 255,0.6);
-}
+} */
 .say-title1{
     text-align: center;
     font-size: 40px;
