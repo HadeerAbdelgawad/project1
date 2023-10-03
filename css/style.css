@@ -361,7 +361,7 @@ body{
     position: absolute;
     content: "";
     width: 25%;
-    height: 25%;
+    height: 0;
     top: 0;
     left: 0;
     background-color: rgb(54, 53, 53);
